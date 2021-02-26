@@ -1,0 +1,16 @@
+blue
+green
+red
+pink
+purple
+yellow
+white
+black
+cyan
+magenta
+turquoise
+teal
+vermilion
+violet
+viridian
+cerulean
